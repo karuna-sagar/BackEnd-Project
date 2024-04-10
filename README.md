@@ -10,7 +10,8 @@
 
 1. Clone this repository:
    ```
-   git clone https://github.com//task-management-api.git
+   git clone [[https://github.com//task-management-api.git](https://github.com/karuna-sagar/BackEnd-Project)](https://github.com/karuna-sagar/BackEnd-Project)
+   git clone 
    ```
 
 2. Install dependencies:
