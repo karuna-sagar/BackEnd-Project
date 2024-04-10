@@ -1,5 +1,3 @@
-This is a simple RESTful API built using Node.js and Express.js for managing tasks (e.g., to-do items). The API allows users to perform basic CRUD (Create, Read, Update, Delete) operations on tasks. The data is stored in memory, and no database is required.
-
 ## Endpoints
 
 - **GET /tasks**: Retrieve a list of all tasks.
@@ -12,7 +10,7 @@ This is a simple RESTful API built using Node.js and Express.js for managing tas
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/task-management-api.git
+   git clone https://github.com//task-management-api.git
    ```
 
 2. Install dependencies:
